@@ -76,7 +76,7 @@ export default class Webflow {
       const opts = {
         method,
         headers: this.headers,
-        mode: 'cors',
+//         mode: 'cors',
       };
 
       if (data) {
